@@ -71,3 +71,4 @@ colors.push("yellow"); // Add a new element
 console.log("This is a debugging message.");
 
 // That's it for this basic intro! Keep practicing and experimenting to learn more.
+```javascript
