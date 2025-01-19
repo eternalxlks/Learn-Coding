@@ -107,5 +107,3 @@ button:hover {
 }
 
 /* Keep practicing CSS to build visually appealing web pages! */
-
-```css
